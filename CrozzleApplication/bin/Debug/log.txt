@@ -1,0 +1,11 @@
+START PROCESSING FILE: Example1-Crozzle.txt
+END PROCESSING FILE: Example1-Crozzle.txt
+
+START PROCESSING FILE: Example1-Configuration.txt
+error 1: code 2001: invalid symbol in configuration item (RUNTIME_LIMIT=300)
+error 2: code 2001: invalid symbol in configuration item (WORD_REGEX_PATTERN="[a-zA-Z]{2,}")
+END PROCESSING FILE: Example1-Configuration.txt
+
+START PROCESSING FILE: Example1-Sequences.txt
+END PROCESSING FILE: Example1-Sequences.txt
+

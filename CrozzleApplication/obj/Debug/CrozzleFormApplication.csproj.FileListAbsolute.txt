@@ -1,0 +1,52 @@
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\bin\Debug\CrozzleApplication.exe.config
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\bin\Debug\CrozzleApplication.exe
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\bin\Debug\CrozzleApplication.pdb
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\bin\Debug\ClassLibrary1.dll
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleFormApplication.csprojAssemblyReference.cache
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.AboutBox.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.ConfigurationFileItemErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.ConfigurationKeys.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.CoordinateErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleFileErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleFileItemErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleViewerForm.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.ErrorsViewer.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.KeyValueErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.OrientationErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.Properties.Resources.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.ConfigurationErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.ValidatorErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.WordDataErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.WordListErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleFormApplication.csproj.GenerateResource.cache
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleFormApplication.csproj.CopyComplete
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.exe
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\Old Program\CrozzleApplication\obj\Debug\CrozzleApplication.pdb
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\bin\Debug\CrozzleApplication.exe.config
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\bin\Debug\CrozzleApplication.exe
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\bin\Debug\CrozzleApplication.pdb
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\bin\Debug\ClassLibrary1.dll
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleFormApplication.csprojAssemblyReference.cache
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.AboutBox.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.ConfigurationFileItemErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.ConfigurationKeys.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.CoordinateErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleFileErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleFileItemErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.CrozzleViewerForm.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.ErrorsViewer.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.KeyValueErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.OrientationErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.Properties.Resources.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.ConfigurationErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.ValidatorErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.WordDataErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.WordListErrors.resources
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleFormApplication.csproj.GenerateResource.cache
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleFormApplication.csproj.CopyComplete
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.exe
+C:\Users\Sebastian Yan\Desktop\DEAKIN\SIT323\Assessment Two\GitHub\SIT323-Greddy-Algorithm-in-2018\CrozzleApplication\obj\Debug\CrozzleApplication.pdb
